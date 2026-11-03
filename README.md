@@ -20,8 +20,8 @@ I like problems where you have to measure something before you can claim it: com
 **[Life Planner](https://github.com/Arrav-SP/LIFE-PLANNER)**: An offline-first planner PWA with tasks, calendar, habits, a study timer and reminders. CI runs database row-level-security tests and Playwright end-to-end tests. [Live demo](https://life-planner-xxft.vercel.app)
 `TypeScript` `React` `Supabase`
 
-**[MediVault](https://github.com/Arrav-SP/MediVault)**: A private health-record vault. Upload lab reports, extract and sanity-check the results, and track medications and conditions. In development.
-`TypeScript` `Next.js` `Supabase`
+**[FitCircle](https://github.com/Arrav-SP/FitCircle)**: A workout-streak app for a small group of friends. Two friends share a streak that only grows when both train, with dares, cover passes and push notifications. Every table has row-level security with a database test per migration. [Live demo](https://fitcircle-arav.expo.app)
+`TypeScript` `React Native` `Supabase`
 
 ## Experience
 
